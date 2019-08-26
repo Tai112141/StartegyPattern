@@ -1,0 +1,2 @@
+# StartegyPattern
+ 
